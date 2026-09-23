@@ -1,0 +1,7 @@
+# Dossiers de build de CLion et de CMake
+cmake-build-*/
+build/
+
+# Configuration locale de l'IDE et du système
+.idea/
+.DS_Store
