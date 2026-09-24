@@ -8,7 +8,7 @@
 //
 // Modifs      Date / Auteur / Raison
 //
-// Compilateur
+// Compilateur Apple clang 17
 
 #include <cstdlib>
 #include <iostream>
