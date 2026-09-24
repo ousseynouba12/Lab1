@@ -30,7 +30,7 @@ int main() {
    cout << "La programmmation sert à résoudre les problèmes" << endl;
    cout << "Test ousseynou Ba" << endl;
    cout << "Fin du lab 1" << endl;
-   cout << "Test POusseynou" << endl;
+   cout << "Test Pa Ousseynou" << endl;
 
 
    return EXIT_SUCCESS;
