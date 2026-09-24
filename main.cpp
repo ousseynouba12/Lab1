@@ -4,7 +4,7 @@
 //
 // But         Labo 1 : se présenter via un programme C++
 //
-// Remarque    il fait beau aujourd'hui
+// Remarque    il fait beau aujourd'hui tu trouves pas 
 //
 // Modifs      Date / Auteur / Raison
 //
