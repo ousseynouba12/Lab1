@@ -31,6 +31,7 @@ int main() {
    cout << "Test ousseynou Ba" << endl;
    cout << "Fin du lab 1" << endl;
    cout << "Test Pa Ousseynou" << endl;
+   cout << "FIN DU LAB" << endl;
 
 
    return EXIT_SUCCESS;
