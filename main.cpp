@@ -24,10 +24,12 @@ int main() {
    cout << "Fin du labo 1" << endl;
 
    // --- Présentations ---
-   std::cout << "Wikiera Jacek" << std::endl;
-   std::cout << "Travaillé en tant que dev junior 1 an en python, fini le tronc commun de 42. C, JS, Python, Java." << std::endl;
-   std::cout << "Callisthénie et trompette." << std::endl;
-   std::cout << "Hacker la nasa." << std::endl;
+   cout << "Amat Ndiaye" << endl;
+   cout << "J'ai déja codé en php" << endl;
+   cout << "J'aime le rugby" << endl;
+   cout << "La programmmation sert à résoudre les problèmes" << endl;
+   cout << "Fin du lab 1" << endl;
+
 
 
    return EXIT_SUCCESS;
