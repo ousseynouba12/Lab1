@@ -29,7 +29,7 @@ int main() {
    cout << "J'aime le rugby" << endl;
    cout << "La programmmation sert à résoudre les problèmes" << endl;
    cout << "Fin du lab 1" << endl;
-
+   cout << "Test Papa Ousseynou" << endl;
 
 
    return EXIT_SUCCESS;
