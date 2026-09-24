@@ -24,11 +24,12 @@ int main() {
    cout << "Fin du labo 1" << endl;
 
    // --- Présentations ---
-   cout << "Mouhamed" << endl;
-   cout << "J'ai déja codé en java" << endl;
-   cout << "J'aime le ski" << endl;
-   cout << "La programmmation sert à résoudre des problèmes" << endl;
+   cout << "Amat Ndiaye" << endl;
+   cout << "J'ai déja codé en php" << endl;
+   cout << "J'aime le rugby" << endl;
+   cout << "La programmmation sert à résoudre les problèmes" << endl;
    cout << "Fin du lab 1" << endl;
+
 
 
    return EXIT_SUCCESS;
